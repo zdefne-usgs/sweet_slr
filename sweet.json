@@ -5,7 +5,8 @@
             "type": "csv",
             "url": "https://raw.githubusercontent.com/rsignell-usgs/sweet_slr/master/all_stations.csv",
             "isEnabled": true,
-            "isLegendVisible":false
+            "isLegendVisible": false,
+            "isShown": false
         },
         {
             "name": "Major Stations",
