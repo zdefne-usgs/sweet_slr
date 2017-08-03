@@ -1,0 +1,10 @@
+{
+    "catalog": [
+        {
+            "name": "New York",
+            "type": "csv",
+            "url": "https://raw.githubusercontent.com/rsignell-usgs/sweet_slr/master/new_york.csv",
+            "idColumns": ["PSMSL ID"]
+        }
+    ]
+}
