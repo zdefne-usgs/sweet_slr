@@ -1,10 +1,15 @@
 {
     "catalog": [
         {
-            "name": "New York",
+            "name": "Major Stations",
             "type": "csv",
-            "url": "https://raw.githubusercontent.com/rsignell-usgs/sweet_slr/master/new_york.csv",
-            "idColumns": ["PSMSL ID"]
+            "url": "https://raw.githubusercontent.com/rsignell-usgs/sweet_slr/master/major_stations.csv",
+            "isEnabled": true
+        },
+        {
+            "name": "All Stations",
+            "type": "csv",
+            "url": "https://raw.githubusercontent.com/rsignell-usgs/sweet_slr/master/all_stations.csv"
         }
     ]
 }
