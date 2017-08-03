@@ -1,0 +1,17 @@
+{
+    "catalog": [
+        {
+            "name": "All Stations",
+            "type": "csv",
+            "url": "https://raw.githubusercontent.com/rsignell-usgs/sweet_slr/master/all_stations.csv",
+            "isEnabled": true,
+            "isLegendVisible":false
+        },
+        {
+            "name": "Major Stations",
+            "type": "csv",
+            "url": "https://raw.githubusercontent.com/rsignell-usgs/sweet_slr/master/major_stations.csv",
+            "isEnabled": true
+        }
+    ]
+}
