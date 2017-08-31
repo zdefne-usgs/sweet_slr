@@ -6,6 +6,19 @@
             "url": "https://raw.githubusercontent.com/rsignell-usgs/sweet_slr/master/major_stations.csv",
             "description": "Major Stations from: Sweet, W.V., R.E. Kopp, C. P. Weaver, J. Obeysekera, R. M. Horton, E.R. Thieler and C. Zervas (2017), Global and Regional Sea Level Rise Scenarios for the United States. NOAA Tech. Rep. NOS CO-OPS 83.",
             "isEnabled": true
+            "items": [
+            {
+              "name": "Gravity Anomaly two",
+              "type": "esri-mapServer",
+            "url": "http://www.ga.gov.au/gisimg/rest/services/earth_science/Geoscience_Australia_National_Geophysical_Grids/MapServer/6",
+            "attribution" :
+                {
+                  "text" : "Geoscience Australia",
+                  "link" : "http://www.ga.gov.au"
+                },
+              "featureInfoTemplate" : "Pixel colour: <b>Red={{Red}} Blue={{Blue}} Green={{Green}}</b>."
+            }
+          ]
         }
     ]
 }
