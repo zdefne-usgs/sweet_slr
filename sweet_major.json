@@ -7,8 +7,7 @@
             "featureInfoTemplate" : {
               "template": "<div>Pixel colour: {{>foobar}}</div>",
               "name": "Red {{Red}}",
-              "template": "<h4>'Chart title'</h4><chart src='https://raw.githubusercontent.com/zdefne-usgs/sweet_slr/master/major_stations.csv' x-column='Longitude',y-column=Latitude',id='id',column-units='cm'>{{terria.timeSeries.data}}
-               </chart>"
+              "<h4>'Chart title'</h4><chart src='https://raw.githubusercontent.com/zdefne-usgs/sweet_slr/master/major_stations.csv' x-column='Longitude',y-column=Latitude',id='id',column-units='cm'>{{terria.timeSeries.data}}</chart>"
             },
             "description": "Major Stations from: Sweet, W.V., R.E. Kopp, C. P. Weaver, J. Obeysekera, R. M. Horton, E.R. Thieler and C. Zervas (2017), Global and Regional Sea Level Rise Scenarios for the United States. NOAA Tech. Rep. NOS CO-OPS 83.",
             "isEnabled": true
