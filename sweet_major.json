@@ -5,9 +5,9 @@
             "type": "csv",
             "url": "https://raw.githubusercontent.com/zdefne-usgs/sweet_slr/master/major_stations.csv",
             "featureInfoTemplate" : {
-                "template": "<h4>Chart title</h4><chart x-column='Longitude' y-column='Latitude' id={{terria.timeSeries.id}} column-units={{terria.timeSeries.units}}>{{terria.timeSeries.data}}</chart>",
-                "<div>Pixel colour: {{>foobar}}</div>",
-                "name": "Red {{Red}}"            
+                "template":                 "<div>Pixel colour: {{>foobar}}</div>",
+                "name": "Red {{Red}}",            
+                "<h4>Chart title</h4><chart x-column='Longitude' y-column='Latitude' id={{terria.timeSeries.id}} column-units={{terria.timeSeries.units}}>{{terria.timeSeries.data}}</chart>"
             },
             "description": "Major Stations from: Sweet, W.V., R.E. Kopp, C. P. Weaver, J. Obeysekera, R. M. Horton, E.R. Thieler and C. Zervas (2017), Global and Regional Sea Level Rise Scenarios for the United States. NOAA Tech. Rep. NOS CO-OPS 83.",
             "isEnabled": true
