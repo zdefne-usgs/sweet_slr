@@ -14,8 +14,8 @@
     "initialCamera": {
     "west": -180,
     "east": 180,
-    "north": 80,
-    "south": -80
+    "north": 50,
+    "south": 0
   },
     "homeCamera": {
     "west": -180,
