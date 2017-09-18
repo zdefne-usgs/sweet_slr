@@ -14,13 +14,13 @@
     "initialCamera": {
     "west": -180,
     "east": 180,
-    "north": 75,
-    "south": 40
+    "north": 90,
+    "south": -90
   },
     "homeCamera": {
     "west": -180,
     "east": 180,
-    "north": 75,
-    "south": 40
+    "north": 90,
+    "south": -90
   }    
 }
