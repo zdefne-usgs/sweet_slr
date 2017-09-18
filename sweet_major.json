@@ -8,8 +8,7 @@
                 "template" : "<h3>{{terria.timeSeries.title}}</h3><chart x-column={{terria.timeSeries.xName}} y-column={{terria.timeSeries.yName}} id={{terria.timeSeries.id}} column-units={{terria.timeSeries.units}}>{{terria.timeSeries.data}}</chart>",
             },
             "description": "Major Stations from: Sweet, W.V., R.E. Kopp, C. P. Weaver, J. Obeysekera, R. M. Horton, E.R. Thieler and C. Zervas (2017), Global and Regional Sea Level Rise Scenarios for the United States. NOAA Tech. Rep. NOS CO-OPS 83.",
-            "isEnabled": true,
-            "dataVariable": "0.3-MED"
+            "isEnabled": true
         }
     ],
     "initialCamera": {
