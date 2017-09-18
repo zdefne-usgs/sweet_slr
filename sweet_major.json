@@ -10,5 +10,17 @@
             "description": "Major Stations from: Sweet, W.V., R.E. Kopp, C. P. Weaver, J. Obeysekera, R. M. Horton, E.R. Thieler and C. Zervas (2017), Global and Regional Sea Level Rise Scenarios for the United States. NOAA Tech. Rep. NOS CO-OPS 83.",
             "isEnabled": true
         }
-    ]
+    ],
+    "initialCamera": {
+    "west": -180,
+    "east": 180,
+    "north": 75,
+    "south": 40
+  },
+    "homeCamera": {
+    "west": -180,
+    "east": 180,
+    "north": 75,
+    "south": 40
+  }    
 }
