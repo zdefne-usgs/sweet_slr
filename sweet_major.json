@@ -23,7 +23,6 @@
     "north": 80,
     "south": -80
   },
-    "dateFormat": {
-    "timelineTic": "yyyy"
+    "timelineTic": {"yyyy"
   }    
 }
