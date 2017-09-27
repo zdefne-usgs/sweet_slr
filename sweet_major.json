@@ -22,5 +22,8 @@
     "east": 180,
     "north": 80,
     "south": -80
+  },
+    "dateFormat": {
+    "timelineTic": "yyyy"
   }    
 }
