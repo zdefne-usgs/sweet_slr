@@ -13,7 +13,7 @@
             "timelineTic": "yyyy",
             "currentTime": "yyyy"
             },
-            "initialTimeSource": "start"
+            "initialTimeSource": "1990-01-01"
         }
     ],
     "initialCamera": {
