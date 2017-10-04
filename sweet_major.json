@@ -12,6 +12,10 @@
             "dateFormat": {
             "timelineTic": "yyyy",
             "currentTime": "yyyy"
+            },
+            "initialTimeSource": {
+                "start": "1990-01-01",
+                "end": "2200-01-01"
             }    
         }
     ],
