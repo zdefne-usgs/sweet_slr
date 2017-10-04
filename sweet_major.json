@@ -11,7 +11,7 @@
             "isEnabled": true,
             "dateFormat": {
             "timelineTic": "yyyy",
-            "currentTime": "yyyy"
+            "currentTime": "mm yyyy"
             },
             "initialTimeSource": "end"
         }
