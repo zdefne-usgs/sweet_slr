@@ -1,0 +1,235 @@
+{
+	"link": {
+		"rel": "self",
+		"url": "https://www.sciencebase.gov/catalog/item/57ab7ea1e4b05e859be1ae87"
+	},
+	"relatedItems": {
+		"link": {
+			"url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=57ab7ea1e4b05e859be1ae87",
+			"rel": "related"
+		}
+	},
+	"id": "57ab7ea1e4b05e859be1ae87",
+	"title": "Barnegat Bay Ecologically Sensitive Areas",
+	"summary": "Ecologically Sensitive Areas are shallow areas where submerged aquatic vegetation such as eel grass, is found. These areas provide shelter and feeding grounds for numerous fish and wildlife, including shellfish, crabs, fish and shorebirds.",
+	"body": "Ecologically Sensitive Areas are shallow areas where submerged aquatic vegetation such as eel grass, is found. These areas provide shelter and feeding grounds for numerous fish and wildlife, including shellfish, crabs, fish and shorebirds.",
+	"citation": "New Jersey Department of Environmental Protection (NJDEP), Green Acres Program, 201210, Barnegat Bay Ecologically Sensitive Areas: NJ Department of Environmental Protection (NJDEP).",
+	"purpose": "The data was created to generally show the public, project partners and DEP staff the location of the 16 Barnegat Bay Environmentally Sensitive Areas which consist of concentrations of aquatic vegetation, shellfish beds, finfish habitat, waterfowl nesting ground. Certain activities by boaters and personal watercraft operators can harm the Bay by damaging submerged aquatic vegetation and disrupting aquatic habitats. This information will provide the background needed to determine the appropriate management plan for protecting the Bay's environmentally sensitive areas.",
+	"provenance": {
+		"dataSource": "Input directly",
+		"dateCreated": "2016-08-10T19:21:05Z",
+		"lastUpdated": "2017-03-06T22:26:55Z",
+		"lastUpdatedBy": "ProcessQueueJob",
+		"createdBy": "zdefne@usgs.gov"
+	},
+	"hasChildren": false,
+	"parentId": "51d6aec9e4b055e0afd5bcb9",
+	"contacts": [{
+		"name": "NJDEP/OIRM/BGIS",
+		"type": "Point of Contact",
+		"contactType": "organization",
+		"email": "gisnet@dep.state.nj.us",
+		"organization": {
+			
+		},
+		"primaryLocation": {
+			"officePhone": "(609) 777-0672",
+			"faxPhone": "(609) 292-7900",
+			"streetAddress": {
+				
+			},
+			"mailAddress": {
+				"line1": "401 East State Street,",
+				"city": "Trenton",
+				"state": "NJ",
+				"zip": "08625"
+			}
+		}
+	},
+	{
+		"name": "New Jersey Department of Environmental Protection (NJDEP), Green Acres Program",
+		"type": "Originator",
+		"organization": {
+			
+		},
+		"primaryLocation": {
+			"streetAddress": {
+				
+			},
+			"mailAddress": {
+				
+			}
+		}
+	},
+	{
+		"name": "REQUIRED: The organization responsible for the metadata information.",
+		"type": "Metadata Contact",
+		"contactType": "organization",
+		"organization": {
+			
+		},
+		"primaryLocation": {
+			"officePhone": "REQUIRED: The telephone number by which individuals can speak to the organization or individual.",
+			"streetAddress": {
+				
+			},
+			"mailAddress": {
+				"city": "REQUIRED: The city of the address.",
+				"state": "REQUIRED: The state or province of the address.",
+				"zip": "REQUIRED: The ZIP or other postal code of the address."
+			}
+		}
+	},
+	{
+		"name": "NJ Department of Environmental Protection (NJDEP)",
+		"type": "Publisher",
+		"organization": {
+			
+		},
+		"primaryLocation": {
+			"streetAddress": {
+				
+			},
+			"mailAddress": {
+				
+			}
+		}
+	}],
+	"browseCategories": ["Data"],
+	"browseTypes": ["Citation",
+	"ArcGIS Service Definition",
+	"Downloadable",
+	"Map Service",
+	"ArcGIS REST Map Service"],
+	"systemTypes": ["Downloadable",
+	"Mappable"],
+	"tags": [{
+		"type": "Theme",
+		"scheme": "ISO 19115 Topic Category",
+		"name": "water"
+	},
+	{
+		"type": "Theme",
+		"scheme": "ISO 19115 Topic Category",
+		"name": "water quality"
+	},
+	{
+		"type": "Theme",
+		"scheme": "ISO 19115 Topic Category",
+		"name": "bay"
+	},
+	{
+		"type": "Place",
+		"scheme": "none",
+		"name": "Barnegat Bay"
+	},
+	{
+		"type": "Place",
+		"scheme": "none",
+		"name": "New Jersey"
+	}],
+	"dates": [{
+		"type": "Publication",
+		"dateString": "2012-10",
+		"label": "Publication Date"
+	},
+	{
+		"type": "Info",
+		"dateString": "2011",
+		"label": "Time Period"
+	}],
+	"facets": [{
+		"filePathUsed": "__disk__01/32/39/0132392df3b425304d6140cd63aebe6defa84151",
+		"boundingBox": {
+			"minY": 39.5011644548075,
+			"minX": -74.3138682745382,
+			"maxY": 40.0012821741104,
+			"maxX": -74.0728334898047
+		},
+		"processingState": "success",
+		"servicePath": "57ab7ea1e4b05e859be1ae87",
+		"serverType": "",
+		"processingMessage": "",
+		"name": "BB_ESA_WGS84.sd",
+		"files": [{
+			"name": "BB_ESA_WGS84.sd",
+			"title": "",
+			"contentType": "x-gis/x-arcgis-service-def",
+			"contentEncoding": null,
+			"pathOnDisk": "__disk__01/32/39/0132392df3b425304d6140cd63aebe6defa84151",
+			"processed": false,
+			"processToken": null,
+			"imageWidth": null,
+			"imageHeight": null,
+			"size": 811013,
+			"dateUploaded": "2016-08-10T19:20:11Z",
+			"uploadedBy": "zdefne@usgs.gov",
+			"originalMetadata": true,
+			"useForPreview": false,
+			"s3Object": null,
+			"checksum": null,
+			"url": "https://www.sciencebase.gov/catalog/file/get/57ab7ea1e4b05e859be1ae87?f=__disk__01%2F32%2F39%2F0132392df3b425304d6140cd63aebe6defa84151"
+		}],
+		"enabledServices": ["WMSServer"],
+		"serviceId": "57ab7ea1e4b05e859be1ae87",
+		"className": "gov.sciencebase.catalog.item.facet.ServiceDefinitionFacet"
+	}],
+	"permissions": {
+		"read": {
+			"acl": ["PUBLIC"],
+			"inherited": false
+		},
+		"write": {
+			"acl": ["USER:zdefne@usgs.gov"],
+			"inherited": false
+		}
+	},
+	"distributionLinks": [{
+		"uri": "https://www.sciencebase.gov/arcgis/rest/services/Catalog/57ab7ea1e4b05e859be1ae87/MapServer",
+		"title": "ArcGIS REST Service",
+		"type": "serviceLink",
+		"typeLabel": "Service Link",
+		"rel": "alternate",
+		"name": "",
+		"files": ""
+	},
+	{
+		"uri": "https://www.sciencebase.gov/arcgis/services/Catalog/57ab7ea1e4b05e859be1ae87/MapServer/WMSServer?request=GetCapabilities&service=WMS",
+		"title": "ArcGIS WMS Service",
+		"type": "serviceLink",
+		"typeLabel": "Service Link",
+		"rel": "alternate",
+		"name": "",
+		"files": ""
+	},
+	{
+		"uri": "https://www.sciencebase.gov/catalog/file/get/57ab7ea1e4b05e859be1ae87",
+		"title": "Download Attached Files",
+		"type": "downloadLink",
+		"typeLabel": "Download Link",
+		"rel": "alternate",
+		"name": "BarnegatBayEcol.zip",
+		"files": [{
+			"name": "BB_ESA_WGS84.sd",
+			"title": "",
+			"contentType": "x-gis/x-arcgis-service-def"
+		}]
+	}],
+	"previewImage": {
+		"from": "mapPreview",
+		"original": {
+			"uri": "https://www.sciencebase.gov/catalog/file/get/57ab7ea1e4b05e859be1ae87?f=__disk__f8%2F7b%2Fad%2Ff87badb8ab894972a6af6d3edbbb3a2aff4c0452",
+			"viewUri": "https://www.sciencebase.gov/catalog/file/get/57ab7ea1e4b05e859be1ae87?f=__disk__f8%2F7b%2Fad%2Ff87badb8ab894972a6af6d3edbbb3a2aff4c0452&width=360&height=240",
+			"viewUrl": "https://www.sciencebase.gov/catalog/file/get/57ab7ea1e4b05e859be1ae87?f=__disk__f8%2F7b%2Fad%2Ff87badb8ab894972a6af6d3edbbb3a2aff4c0452&width=360&height=240",
+			"width": 360,
+			"height": 240,
+			"size": 94920
+		},
+		"thumbnail": {
+			"uri": "https://www.sciencebase.gov/catalog/file/get/57ab7ea1e4b05e859be1ae87?f=__disk__f8%2F7b%2Fad%2Ff87badb8ab894972a6af6d3edbbb3a2aff4c0452&width=150&height=100",
+			"width": 150,
+			"height": 100
+		}
+	},
+	"locked": false
+}
