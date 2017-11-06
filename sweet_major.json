@@ -15,7 +15,7 @@
             }
         }
     ],
-    "initialTimeSource": "start",
+    "initialTimeSource": "2020-01-01",
     "initialCamera": {
     "west": -180,
     "east": 180,
