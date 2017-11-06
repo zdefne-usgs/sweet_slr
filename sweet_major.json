@@ -12,10 +12,10 @@
             "dateFormat": {
             "timelineTic": "mmm yyyy",
             "currentTime": "mmm yyyy"
-            },
-            "initialTimeSource": "start"
+            }
         }
     ],
+    "initialTimeSource": "start"
     "initialCamera": {
     "west": -180,
     "east": 180,
