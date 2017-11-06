@@ -13,7 +13,7 @@
             "timelineTic": "mmm yyyy",
             "currentTime": "mmm yyyy"
             },
-            "initialTimeSource": "start"
+            "initialTimeSource": "2020-01-01"
         }
     ],
     "initialCamera": {
