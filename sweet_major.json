@@ -13,8 +13,8 @@
             "isWaitingForDisclaimer" : true,
             "metadataUrl" : "https://tidesandcurrents.noaa.gov/publications/techrpt83_Global_and_Regional_SLR_Scenarios_for_the_US_final.pdf",
             "dateFormat": {
-            "timelineTic" : "mmm yyyy",
-            "currentTime" : "mmm yyyy"
+            "timelineTic" : "yyyy",
+            "currentTime" : "yyyy"
             },
             "hideSource" : true,
             "initialTimeSource" : "2020-01-01"
