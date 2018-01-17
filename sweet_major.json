@@ -14,7 +14,7 @@
             "currentTime" : "mmm yyyy"
             },
             "hideSource" : true,
-            "initialMessage" : {"title":"ttl", "content":"cnt", "key": "ky", "confirmation": "true", "confirmText": "ys", "width": 50, height: 50
+            "initialMessage" : {"title":"ttl", "content":"cnt", "key": "ky", "confirmation": "true", "confirmText": "ys", "width": 50, "height": 50
             },
             "initialTimeSource" : "2020-01-01"
         }
