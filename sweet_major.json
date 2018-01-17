@@ -3,15 +3,16 @@
         {
             "name": "Major Stations",
             "type": "csv",
-            "url": "https://raw.githubusercontent.com/zdefne-usgs/sweet_slr/gui/major_stations_short.csv",
+            "url": "https://raw.githubusercontent.com/zdefne-usgs/sweet_slr/gui/major_stations.csv",
             "idColumns": ["id"],
             "tableStyle": {
+                "units": "mm/yr",
                 "dataVariable": "MED03",
                 "scaleByValue": true,
                 "columns": {
                     "MED03": {
                         "name": "MED03",
-                        "units": "mm/yr"
+                        "units": "tonnes/yr"
                      }
                 }
             },            
