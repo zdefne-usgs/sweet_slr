@@ -9,8 +9,8 @@
                 "dataVariable": "MED03",
                 "scaleByValue": true,
                 "columns": {
-                    "value": {
-                        "name": "MED03",
+                    "MED03": {
+                        "name": "30cm MED",
                         "units": "mm/yr"
                      }
                 }
