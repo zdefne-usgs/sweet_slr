@@ -10,7 +10,7 @@
                 "scaleByValue": true,
                 "columns": {
                     "MED03": {
-                        "name": "30cm MED",
+                        "name": "MED03",
                         "units": "mm/yr"
                      }
                 }
