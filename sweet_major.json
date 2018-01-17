@@ -10,9 +10,15 @@
                 "scaleByValue": true,
                 "columns": {
                     "value": {
-                        "name": "30 cm MED",
+                        "name": "30cm MED",
                         "units": "mm/yr"
-                    }
+                "dataVariable": "BackgroundRSL",
+                "scaleByValue": true,
+                "columns": {
+                    "value": {
+                        "name": "bRSL",
+                        "units": "mm/yr"
+                     }
                 }
             },            "featureInfoTemplate" : {
                 "template" : "<h3>{{terria.timeSeries.title}}</h3><chart x-column={{terria.timeSeries.xName}} y-column={{terria.timeSeries.yName}} id={{terria.timeSeries.id}} column-units='{{terria.timeSeries.units}}'>{{terria.timeSeries.data}}</chart>",
