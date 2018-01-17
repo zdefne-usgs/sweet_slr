@@ -6,11 +6,11 @@
             "url": "https://raw.githubusercontent.com/zdefne-usgs/sweet_slr/gui/major_stations_short.csv",
             "idColumns": ["id"],
             "tableStyle": {
-                "dataVariable": "BackgroundRSL",
+                "dataVariable": "MED03",
                 "scaleByValue": true,
                 "columns": {
                     "value": {
-                        "name": "bRSL",
+                        "name": "MED03",
                         "units": "mm/yr"
                      }
                 }
