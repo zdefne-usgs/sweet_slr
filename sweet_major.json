@@ -7,10 +7,9 @@
             "idColumns": ["id"],
             "tableStyle": {
                 "units": "mm/yr",
-                "dataVariable": "MED03",
                 "scaleByValue": true,
                 "columns": {
-                    "MED03": {
+                    "0.3-MED": {
                         "name": "MED03",
                         "units": "tonnes/yr"
                      }
