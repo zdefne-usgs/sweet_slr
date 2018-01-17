@@ -6,14 +6,6 @@
             "url": "https://raw.githubusercontent.com/zdefne-usgs/sweet_slr/gui/major_stations_short.csv",
             "idColumns": ["id"],
             "tableStyle": {
-                "dataVariable": "0.3-MED",
-                "scaleByValue": true,
-                "columns": {
-                    "value": {
-                        "name": "30cm MED",
-                        "units": "mm/yr"
-                     }
-                },                      
                 "dataVariable": "BackgroundRSL",
                 "scaleByValue": true,
                 "columns": {
