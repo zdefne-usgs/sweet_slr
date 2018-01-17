@@ -13,7 +13,7 @@
                         "name": "30cm MED",
                         "units": "mm/yr"
                      }
-                }                        
+                },                      
                 "dataVariable": "BackgroundRSL",
                 "scaleByValue": true,
                 "columns": {
