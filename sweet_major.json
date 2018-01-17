@@ -7,6 +7,8 @@
             "idColumns": ["id"],
             "tableStyle": {
                 "units": "mm/yr",
+                "yAxisMin": -50,
+                "yAxisMiax": 50,
                 "scaleByValue": true,
                 "columns": {
                     "0.3-MED": {
