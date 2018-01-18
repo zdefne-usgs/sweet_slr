@@ -64,7 +64,7 @@
                         "tableStyle": {
                             "dataVariable": "value",
                             "scaleByValue": true,
-                            "units": "mm/hr"
+                            "units": "mm/hr",
                             "columns": {
                                 "value": {
                                     "name": "speed",
