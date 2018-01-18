@@ -3,7 +3,6 @@
         "name": "CSV testing",
         "type": "group",
         "isOpen": true,
-        "isEnabled": true,
         "items": [
             {
                 "name": "CSVs with moving features",
