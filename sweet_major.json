@@ -16,8 +16,8 @@
                     "0.3-MED": {
                         "name": "0.3m MED",
                         "units": "mm/yr",
-                     }
-                    "0.3-LOw": {
+                     },
+                    "0.3-LOW": {
                         "name": "LOW03",
                         "units": "mm/yr",
                      }
