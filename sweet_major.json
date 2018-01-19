@@ -12,7 +12,8 @@
                 "columns": {
                     "0.3-MED": {
                         "name": "MED03",
-                        "units": "tonnes/yr"
+                        "units": "tonnes/yr",
+                        "type": "HIDDEN"
                      }
                 }
             },            
