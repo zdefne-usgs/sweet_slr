@@ -15,6 +15,7 @@
                         "nameInCatalog": "Sampled",
                         "type": "csv",
                         "url": "build/TerriaJS/test/csv/lat_lon_enum_date_id.csv",
+                        "units": "tonnes",
                         "idColumns": ["id"],
                         "tableStyle": {
                             "dataVariable": "value",
