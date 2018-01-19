@@ -10,10 +10,11 @@
                 "yAxisMin": -50,
                 "yAxisMiax": 50,
                 "columns": {
+                    "id": {
+                        'type": "HIDDEN"
                     "0.3-MED": {
-                        "name": "MED03",
-                        "units": "tonnes/yr",
-                        "type": "HIDDEN"
+                        "name": "0.3m MED",
+                        "units": "mm/yr",
                      }
                 }
             },            
