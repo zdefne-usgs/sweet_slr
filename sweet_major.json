@@ -12,6 +12,7 @@
                 "columns": {
                     "id": {
                         'type": "HIDDEN"
+                    },
                     "0.3-MED": {
                         "name": "0.3m MED",
                         "units": "mm/yr",
