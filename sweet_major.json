@@ -5,10 +5,10 @@
             "type": "csv",
             "url": "https://raw.githubusercontent.com/zdefne-usgs/sweet_slr/gui/major_stations.csv",
             "idColumns": ["id"],
-            "units": "mm/yr",
             "tableStyle": {
-                "yAxisMin": -50,
-                "yAxisMiax": 50,
+                "units": "mm/yr",
+                "colorBins": 9,
+                "colorMap": "black-red"
                 "columns": {
                     "id": {
                         "type": "HIDDEN"
@@ -16,10 +16,13 @@
                     "0.3-MED": {
                         "name": "MED03",
                         "units": "mm/yr",
+                        "yAxisMin": -50,
+                        "yAxisMiax": 50
                      },
                     "0.3-LOW": {
                         "name": "LOW03",
-                        "units": "mm/yr",
+                        "units": "mm/yr"
+                        "color" : 
                      }
                 }
             },            
