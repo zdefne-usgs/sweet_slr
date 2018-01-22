@@ -8,7 +8,7 @@
             "tableStyle": {
                 "units": "mm/yr",
                 "colorBins": 9,
-                "colorMap": "black-red"
+                "colorMap": "black-red",
                 "columns": {
                     "id": {
                         "type": "HIDDEN"
