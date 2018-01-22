@@ -5,8 +5,8 @@
             "type": "csv",
             "url": "https://raw.githubusercontent.com/zdefne-usgs/sweet_slr/gui/major_stations.csv",
             "idColumns": ["id"],
+            "units": "mm/yr",
             "tableStyle": {
-                "units": "mm/yr",
                 "yAxisMin": -50,
                 "yAxisMiax": 50,
                 "columns": {
