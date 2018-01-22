@@ -17,7 +17,7 @@
                         "name": "MED03",
                         "units": "mm/yr",
                         "yAxisMin": -50,
-                        "yAxisMiax": 50
+                        "yAxisMax": 50
                      },
                     "0.3-LOW": {
                         "name": "LOW03",
