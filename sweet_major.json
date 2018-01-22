@@ -21,7 +21,8 @@
                      },
                     "0.3-LOW": {
                         "name": "LOW03",
-                        "units": "mm/yr"
+                        "units": "mm/yr",
+                        "chartLineColor": "#00b050"
                      }
                 }
             },            
