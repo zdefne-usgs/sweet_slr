@@ -4,9 +4,9 @@
             "name": "Major Stations",
             "type": "csv",
             "url": "https://raw.githubusercontent.com/zdefne-usgs/sweet_slr/gui/major_stations.csv",
+            "units": "mm/yr",
             "idColumns": ["id"],
             "tableStyle": {
-                "units": "mm/yr",
                 "colorBins": 9,
                 "_comment": "colorMap : black-red",
                 "columns": {
