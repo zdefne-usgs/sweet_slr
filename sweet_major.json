@@ -29,4 +29,10 @@
     "north": 80,
     "south": -80
   },
+    globalDisclaimer: {
+    confirmationRequired: true,
+    buttonTitle: "I agree",
+    title: "Disclaimer: This map must not be used for navigation or precise spatial analysis",
+   },  
+
 }
