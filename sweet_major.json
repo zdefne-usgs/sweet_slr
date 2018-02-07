@@ -29,6 +29,7 @@
     "north": 80,
     "south": -80
   },
+    "viewerMode": "2d",
     "globalDisclaimer": {
     "confirmationRequired": true,
     "buttonTitle": "I agree",
