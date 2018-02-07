@@ -42,6 +42,7 @@
             "initialTimeSource" : "2021-01-01"
         }
     ],
+    "viewerMode": "2d",
     "initialCamera": {
     "west": -180,
     "east": 180,
