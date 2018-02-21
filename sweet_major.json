@@ -1,4 +1,4 @@
-{
+rrr{
     "viewerMode": "2d",
     "initialCamera": {
     "west": -180,
@@ -14,7 +14,7 @@
   },
     "catalog": [
         {
-            "name": "MAJOR STATIONS",
+            "name": "Tide Gauge Locations",
             "type": "csv",
             "url": "https://raw.githubusercontent.com/zdefne-usgs/sweet_slr/master/major_stations.csv",
             "description": "Sea level change data at major stations as presented in: Sweet, W.V., R.E. Kopp, C. P. Weaver, J. Obeysekera, R. M. Horton, E.R. Thieler and C. Zervas (2017), Global and Regional Sea Level Rise Scenarios for the United States. NOAA Tech. Rep. NOS CO-OPS 83.",
@@ -31,7 +31,7 @@
             "idColumns": ["id"],
             //"featureInfoTemplate" : {"template": "{{SPEED}} m/s", "formats": {"SPEED": {"maximumFractionDigits": 2}}}
             "featureInfoTemplate" : {
-                "template" : "<table><th><tr><td><body>{{terria.timeSeries.title}}<body></td></tr></th><tr><td><chart x-column={{terria.timeSeries.xName}} y-column={{terria.timeSeries.yName}} id={{terria.timeSeries.id}} column-units={{terria.timeSeries.units}}>{{terria.timeSeries.data}}</chart><br></td></tr></table>",
+                "template" : "<table style=width:100%><th><tr><td><body>{{terria.timeSeries.title}}<body></td></tr></th><tr><td><chart x-column={{terria.timeSeries.xName}} y-column={{terria.timeSeries.yName}} id={{terria.timeSeries.id}} column-units={{terria.timeSeries.units}}>{{terria.timeSeries.data}}</chart></td></tr></table>",
             },
             "tableStyle": { 
                 "dataVariable": "0.3-MED",
@@ -49,18 +49,18 @@
                     "0.3-MED": {
                         "name": "GMSL.0.3m.MED.(m)",
                         "units": "m",
-                        "colorBinMethod": "quantile"
+                        "colorBinMethod": "quantile",
                      },
                     "0.3-LOW": {
                         "name": "GMSL.0.3m.LOW.(m)",
                         "units": "m",
-                        "chartLineColor": "#1a1aff",
+                        "chartLineColor": "#bfbfbf",
                         "colorBinMethod": "quantile",
                      },
                     "0.3-HIGH": {
                         "name": "GMSL.0.3m.HIGH.(m)",
                         "units": "m",
-                        "chartLineColor": "#ff3300",
+                        "chartLineColor": "#bfbfbf",
                         "colorBinMethod": "quantile",
                      },
                     "0.5-MED": {
@@ -71,13 +71,13 @@
                     "0.5-LOW": {
                         "name": "GMSL.0.5m.LOW.(m)",
                         "units": "m",
-                        "chartLineColor": "#1a1aff",
+                        "chartLineColor": "#bfbfbf",
                         "colorBinMethod": "quantile",
                      },
                     "0.5-HIGH": {
                         "name": "GMSL.0.5m.HIGH.(m)",
                         "units": "m",
-                        "chartLineColor": "#ff3300",
+                        "chartLineColor": "#bfbfbf",
                         "colorBinMethod": "quantile",
                      },
                     "1.0-MED": {
@@ -88,13 +88,13 @@
                     "1.0-LOW": {
                         "name": "GMSL.1.0m.LOW.(m)",
                         "units": "m",
-                        "chartLineColor": "#1a1aff",
+                        "chartLineColor": "#bfbfbf",
                         "colorBinMethod": "quantile",
                      },
                     "1.0-HIGH": {
                         "name": "GMSL.1.0m.HIGH.(m)",
                         "units": "m",
-                        "chartLineColor": "#ff3300",
+                        "chartLineColor": "#bfbfbf",
                         "colorBinMethod": "quantile",
                      },
                     "1.5-MED": {
@@ -105,13 +105,13 @@
                     "1.5-LOW": {
                         "name": "GMSL.1.5m.LOW.(m)",
                         "units": "m",
-                        "chartLineColor": "#1a1aff",
+                        "chartLineColor": "#bfbfbf",
                         "colorBinMethod": "quantile",
                      },
                     "1.5-HIGH": {
                         "name": "GMSL.1.5m.HIGH.(m)",
                         "units": "m",
-                        "chartLineColor": "#ff3300",
+                        "chartLineColor": "#bfbfbf",
                         "colorBinMethod": "quantile",
                      },
                     "2.0-MED": {
@@ -122,13 +122,13 @@
                     "2.0-LOW": {
                         "name": "GMSL.2.0m.LOW.(m)",
                         "units": "m",
-                        "chartLineColor": "#1a1aff",
+                        "chartLineColor": "#bfbfbf",
                         "colorBinMethod": "quantile",
                      },
                     "2.0-HIGH": {
                         "name": "GMSL.2.0m.HIGH.(m)",
                         "units": "m",
-                        "chartLineColor": "#ff3300",
+                        "chartLineColor": "#bfbfbf",
                         "colorBinMethod": "quantile",
                      },
                     "2.5-MED": {
@@ -139,13 +139,13 @@
                     "2.5-LOW": {
                         "name": "GMSL.2.5m.LOW.(m)",
                         "units": "m",
-                        "chartLineColor": "#1a1aff",
+                        "chartLineColor": "#bfbfbf",
                         "colorBinMethod": "quantile",
                      },
                     "2.5-HIGH": {
                         "name": "GMSL.2.5m.HIGH.(m)",
                         "units": "m",
-                        "chartLineColor": "#ff3300",
+                        "chartLineColor": "#bfbfbf",
                         "colorBinMethod": "quantile",
                      },
                 }
