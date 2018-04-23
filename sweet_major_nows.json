@@ -16,7 +16,7 @@
         {
             "name": "Tide Gauge Locations",
             "type": "csv",
-            "url": "https://raw.githubusercontent.com/zdefne-usgs/sweet_slr/gui/major_stations2.csv",
+            "url": "https://raw.githubusercontent.com/zdefne-usgs/sweet_slr/master/major_stations2.csv",
             "description": "Sea level change data at major stations as presented in: Sweet, W.V., R.E. Kopp, C. P. Weaver, J. Obeysekera, R. M. Horton, E.R. Thieler and C. Zervas (2017), Global and Regional Sea Level Rise Scenarios for the United States. NOAA Tech. Rep. NOS CO-OPS 83.",
             "isEnabled": true,
             "isLoading" : true,
@@ -39,7 +39,7 @@
                 "_comment": "colorMap : black-red",
                 "columns": {
                     "id": {
-                        "type": "HIDDEN"
+                      //  "type": "HIDDEN"
                     },
                     "BackgroundRSLrate": {
                         "name": "BackgroundRSLrate(mm/yr)",
