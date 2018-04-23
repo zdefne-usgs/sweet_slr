@@ -30,7 +30,7 @@
             "initialTimeSource" : "2100-01-01",
             "idColumns": ["id"],
             "featureInfoTemplate" : {
-                "template" : "<table style=width:100%><th><tr><td><body>{{terria.timeSeries.title}}<body></td></tr></th><tr><td><chart x-column={{terria.timeSeries.xName}} y-column={{terria.timeSeries.yName}} id={{terria.timeSeries.id}} column-units={{terria.timeSeries.units}}>{{terria.timeSeries.data}}</chart></td></tr></table>",
+                "template" : "<table style=width:100%><th><tr><td><body>{{terria.timeSeries.title}}<body></td></tr></th><tr><td><chart x-column=\"{{terria.timeSeries.xName}}\" y-column=\"{{terria.timeSeries.yName}}\" id=\"{{terria.timeSeries.id}}\" column-units={{terria.timeSeries.units}}>{{terria.timeSeries.data}}</chart></td></tr></table>",
             },
             "tableStyle": { 
                 "colorBins": 9, 
