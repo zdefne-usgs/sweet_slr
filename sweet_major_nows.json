@@ -29,17 +29,14 @@
             "hideSource" : true,
             "initialTimeSource" : "2100-01-01",
             "idColumns": ["id"],
-            //"featureInfoTemplate" : {"template": "{{SPEED}} m/s", "formats": {"SPEED": {"maximumFractionDigits": 2}}}
             "featureInfoTemplate" : {
                 "template" : "<table style=width:100%><th><tr><td><body>{{terria.timeSeries.title}}<body></td></tr></th><tr><td><chart x-column={{terria.timeSeries.xName}} y-column={{terria.timeSeries.yName}} id={{terria.timeSeries.id}} column-units={{terria.timeSeries.units}}>{{terria.timeSeries.data}}</chart></td></tr></table>",
             },
             "tableStyle": { 
-                //"dataVariable": "03-MED",
                 "colorBins": 9, 
                 "_comment": "colorMap : black-red",
                 "columns": {
                     "id": {
-                      //  "type": "HIDDEN"
                     },
                     "BackgroundRSLrate": {
                         "name": "BackgroundRSLrate(mm/yr)",
